@@ -40,16 +40,14 @@ Commonly available verbs include:
 
 
 
-| Verb       | Description                                                                                              |
-|------------|----------------------------------------------------------------------------------------------------------|
-| edit       | Launches an editor and opens the document for editing.                                                   |
-| find       | Initiates a search starting from the specified directory.                                                |
-| open       | Launches an application. If this file is not an executable file, its associated application is launched. |
-| print      | Prints the document file.                                                                                |
-| properties | Displays the object's properties.                                                                        |
-| runas      | Launches an application as Administrator. User Account Control (UAC) will prompt the user for consent to |
-|            | run the application elevated or enter the credentials of an administrator account used to run the        |
-|            | application.                                                                                             |
+| Verb       | Description                                                                                                 |
+|------------|-------------------------------------------------------------------------------------------------------------|
+| edit       | Launches an editor and opens the document for editing.                                                      |
+| find       | Initiates a search starting from the specified directory.                                                   |
+| open       | Launches an application.<br>If this file is not an executable file, its associated application is launched. |
+| print      | Prints the document file.                                                                                   |
+| properties | Displays the object's properties.                                                                           |
+| runas      | Launches an application as Administrator.<br>User Account Control (UAC) will prompt the user for consent to run the application elevated or enter the credentials of an administrator account used to run the application.                                                                   |
 
  
 
